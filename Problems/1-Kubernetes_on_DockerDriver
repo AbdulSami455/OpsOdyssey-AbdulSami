@@ -1,6 +1,9 @@
 Basically i want to run minikube on My aws EC2 Instance using docker container,but the problem is that kubernetes required atleast 2 CPU's alloted to Docker for run it as driver...
 
 
+file:///home/sami/Pictures/Screenshots/Screenshot%20from%202023-12-29%2005-12-28.png
+
+
 
 
 
