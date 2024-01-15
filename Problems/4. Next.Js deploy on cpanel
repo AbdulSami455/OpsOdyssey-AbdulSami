@@ -5,3 +5,6 @@ the problem I'm facing is when I upload next.js on cpanel, the application manag
 index page on main url 
 
 There are the Steps i m doing before facing problem 
+1.  go to package.json and add this line: "homepage": "http://droproot.com"
+2.  run next build to have .next folder as my build folder
+3. go to cpanel  >> file manager >> public_html folder and upload the contetn of .next folder to this directory
