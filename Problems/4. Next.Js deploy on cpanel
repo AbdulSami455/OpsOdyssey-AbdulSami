@@ -1,1 +1,5 @@
 
+Cpanel is a hosting Platform provided by namecheap.
+
+the problem I'm facing is when I upload next.js on cpanel, the application manager is not detecting next app and it is displaying
+index page on main url 
