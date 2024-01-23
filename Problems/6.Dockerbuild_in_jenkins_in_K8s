@@ -1,3 +1,11 @@
-###Problem Statement
+##Problem Statement
+
+The goal is to set up Jenkins to build Docker images using Docker in Docker (DinD). There are multiple YAML files for creating a Jenkins deployment, service, ingress, and persistent volume claim (PVC). You want to ensure that:
+
+Jenkins runs as a deployment in the tools namespace.
+Docker is installed and accessible within the Jenkins container.
+The Jenkins pipeline is configured to pull a Docker image from DockerHub and build it within the Jenkins container.
+Minikube's node has Docker installed and is accessible to Jenkins for building Docker images.
+
 
 
