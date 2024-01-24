@@ -7,7 +7,7 @@ The goal is to set up Jenkins to build Docker images using Docker in Docker (Din
 3. The Jenkins pipeline is configured to pull a Docker image from DockerHub and build it within the Jenkins container.
 4. Minikube's node has Docker installed and is accessible to Jenkins for building Docker images.
 
-
+..
 
 
 
