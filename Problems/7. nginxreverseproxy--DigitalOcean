@@ -7,3 +7,6 @@ But it doesn't work, i have a problem with Nginx configuration. Looking at someo
 What would be the fee to look at it ?
 Best
 Alex
+
+
+This below is Default config file i made to connect three database in digital ocean droplet and then with dns and ssl
