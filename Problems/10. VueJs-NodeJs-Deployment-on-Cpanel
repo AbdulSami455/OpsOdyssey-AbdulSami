@@ -1,4 +1,12 @@
  Error and Problem Statement: 
 Backend of NodeJs is working but i cannot getting any frontend...
-I m having full Whitescreen 
+I'm having full Whitescreen 
+
+
+Solution:
+1. First build it locally by npm run build then copy whole code to file Manager.
+2. Go to terminal and paste command given in nodejs setup app section
+3. npm install there 
+4. Run nodejs app
+
 
