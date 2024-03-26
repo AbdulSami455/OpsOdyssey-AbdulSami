@@ -1,0 +1,23 @@
+
+when i want to run elixir app, basically installing its dependencies, error i m facing is memory shortage 
+this is how to solve it 
+
+Understanding Swap: Swap is a portion of hard drive storage reserved for the operating system to temporarily store data when RAM is insufficient.
+
+Purpose of Swap: Swap space allows the system to increase the amount of information it can hold in memory, acting as a safety net against out-of-memory errors.
+
+Checking System for Swap Information: Commands like swapon --show and free -h help determine if there's existing swap space available.
+
+Checking Disk Space: Utilize df -h to ensure adequate disk space for creating a swap file.
+
+Creating a Swap File: Use fallocate to create a swap file of desired size (typically equal to or double the amount of RAM).
+
+Enabling the Swap File: Set appropriate permissions with chmod, mark the file as swap space using mkswap, and enable it with swapon.
+
+Making Swap File Permanent: Add the swap file information to /etc/fstab to retain swap settings after reboot.
+
+Tuning Swap Settings: Adjusting swappiness and cache pressure settings can optimize system performance.
+
+Swappiness: Controls how often the system swaps data out of RAM to the swap space, with values ranging from 0 to 100.
+
+Cache Pressure Setting: Determines how much the system will prioritize caching inode and dentry information over other data, affecting filesystem performance.
