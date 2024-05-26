@@ -12,4 +12,5 @@ The Technologies Covered till date
 8. Nginx
 9. Digital Ocean
 10. NextJs
+11. Aws Beanstalk
 
