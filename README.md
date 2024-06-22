@@ -14,4 +14,5 @@ The Technologies Covered till date
 10. NextJs
 11. Aws Beanstalk
 12. Development Server Deployment
+13. SwaggerUI on Ec2
 
