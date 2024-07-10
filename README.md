@@ -16,4 +16,5 @@ The Technologies Covered till date
 12. Development Server Deployment
 13. SwaggerUI on Ec2
 14. Monitor Docker Activity using Prometheus and Grafana
+15. Stripe Api
 
