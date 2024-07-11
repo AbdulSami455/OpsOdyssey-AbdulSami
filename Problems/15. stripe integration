@@ -3,3 +3,4 @@ We need to pull stripe for a users status and support four subscription plans: F
 The scope of this subtask primarily just extends to the implementation of the payments system itself and not segmentation (i.e. blocking off certain functionalities based off of plans) which will be completed later.
 
 This task is also only focused on the backend and no frontend modifications should be made yet (i.e. setting up the payments page itself)
+
