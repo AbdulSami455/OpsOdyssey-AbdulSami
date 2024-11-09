@@ -18,3 +18,11 @@ The Technologies Covered till date
 14. Monitor Docker Activity using Prometheus and Grafana
 15. Stripe Api
 
+
+Goals to Deep Dive in Technologies in Upcoming Times
+1. EKS
+2. GKS
+3. GitLab
+4. Ansible
+5. GCP cloud Run
+6. Promotheus and Grafana
